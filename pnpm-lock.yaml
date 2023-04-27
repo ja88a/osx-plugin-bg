@@ -17,8 +17,8 @@ dependencies:
     specifier: ^4.8.2
     version: 4.8.2
   '@openzeppelin/hardhat-upgrades':
-    specifier: ^1.21.0
-    version: 1.21.0(@nomiclabs/hardhat-ethers@2.2.3)(@nomiclabs/hardhat-etherscan@3.1.7)(ethers@5.7.2)(hardhat@2.13.1)
+    specifier: ^1.23.0
+    version: 1.23.0(@nomiclabs/hardhat-ethers@2.2.3)(@nomiclabs/hardhat-etherscan@3.1.7)(ethers@5.7.2)(hardhat@2.13.1)
 
 devDependencies:
   '@ethersproject/abi':
@@ -1450,8 +1450,8 @@ packages:
     resolution: {integrity: sha512-kEUOgPQszC0fSYWpbh2kT94ltOJwj1qfT2DWo+zVttmGmf97JZ99LspePNaeeaLhCImaHVeBbjaQFZQn7+Zc5g==}
     dev: false
 
-  /@openzeppelin/hardhat-upgrades@1.21.0(@nomiclabs/hardhat-ethers@2.2.3)(@nomiclabs/hardhat-etherscan@3.1.7)(ethers@5.7.2)(hardhat@2.13.1):
-    resolution: {integrity: sha512-Kwl7IN0Hlhj4HluMTTl0DrtU90OI/Q6rG3sAyd2pv3fababe9EuZqs9DydOlkWM45JwTzC+eBzX3TgHsqI13eA==}
+  /@openzeppelin/hardhat-upgrades@1.23.0(@nomiclabs/hardhat-ethers@2.2.3)(@nomiclabs/hardhat-etherscan@3.1.7)(ethers@5.7.2)(hardhat@2.13.1):
+    resolution: {integrity: sha512-hn0PYJuQG+jkuseNpYX+Rn90c9wVm8QRFRWJua6Q2BODwLKxThDb4l2bQMtdLvscKt2CS8ZFIfdvgKG/ejrgwg==}
     hasBin: true
     peerDependencies:
       '@nomiclabs/hardhat-ethers': ^2.0.0

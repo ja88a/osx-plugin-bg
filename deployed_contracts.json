@@ -4,5 +4,10 @@
     "SimpleStorageR1B2Setup": "0x818E2f0D243FB841b765Eee2aA2CC7Ec93f05320",
     "SimpleStorageR1B3Setup": "0x604570fA0f83785ea925575d165725170eC316Cc",
     "PluginRepo": "0x95B2c863Cb13542b3c4973Ad0CDAc7c895B6254f"
+  },
+  "hardhat": {
+    "SimpleStorageR1B1Setup": "0x8F515C10a605D394b11baa0F05F35CA8f704918B",
+    "SimpleStorageR1B2Setup": "0x779DEE4345C727967259bb5C9c2359994AC0BbC4",
+    "SimpleStorageR1B3Setup": "0x2166feD4fe6314d416Da5ac24c07fFfCe972B986"
   }
 }

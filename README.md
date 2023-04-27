@@ -132,8 +132,6 @@ Deploy the contracts to Hardhat Network:
 $ yarn deploy
 ```
 
-**⚠️ Please note the current [OZ `hardhat-upgrades` related issue](https://github.com/aragon/simple-storage-example-plugin/issues/5) leading to failing etherscan verification and the provided workaround. ⚠️**
-
 
 ## Tips
 
