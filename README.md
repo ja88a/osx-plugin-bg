@@ -22,22 +22,20 @@ An Aragon OSx example plugin using
 
 based on [Paul Razvan Berg's great hardhat-template](https://github.com/PaulRBerg/hardhat-template).
 
-
 ## Getting Started
 
 This OSx plugin repository has been initiated from the guide on [How to write an upgradeable plugin](https://devs.aragon.org/docs/osx/how-to-guides/plugin-development/upgradeable-plugin/) from the Aragon Developer Portal.
 
 It does:
+
 - write three successive builds of an `PluginUUPSUpgradeable` implementation and associated `PluginSetup` contract
 - deploy them and publish them in an Aragon OSx `PluginRepo` created from the currently deployed `PluginRepoFactory`
 - verify them with Etherscan
 - write unit tests and integration tests against the currently deployed Aragon OSx protocol contracts
 
-
 ### VSCode Integration
 
 This project is IDE agnostic, but for the best user experience, you may want to use it in VSCode alongside Nomic Foundation's [Solidity extension](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity).
-
 
 ### GitHub Actions
 
@@ -46,7 +44,6 @@ This template comes with GitHub Actions pre-configured. Your contracts will be l
 Note though that to make this work, you must add your `INFURA_API_KEY` as a [GitHub secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets).
 
 CI script: [.github/workflows/ci.yml](./.github/workflows/ci.yml).
-
 
 ## Usage
 
@@ -131,7 +128,6 @@ Deploy the contracts to Hardhat Network:
 ```sh
 $ yarn deploy
 ```
-
 
 ## Tips
 

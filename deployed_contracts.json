@@ -6,8 +6,9 @@
     "PluginRepo": "0x95B2c863Cb13542b3c4973Ad0CDAc7c895B6254f"
   },
   "hardhat": {
-    "SimpleStorageR1B1Setup": "0x8F515C10a605D394b11baa0F05F35CA8f704918B",
-    "SimpleStorageR1B2Setup": "0x779DEE4345C727967259bb5C9c2359994AC0BbC4",
-    "SimpleStorageR1B3Setup": "0x2166feD4fe6314d416Da5ac24c07fFfCe972B986"
+    "SimpleStorageR1B1Setup": "0x737b6e3e9C19c7468A8C5A28453d380a1f3E703C",
+    "SimpleStorageR1B2Setup": "0x8C7a94be83b8C5B5C532cA08ccf4277E913Cb2cf",
+    "SimpleStorageR1B3Setup": "0x8214BE175800C4E1Eb43220f8c746826F8927612",
+    "PluginRepo": "0x00E0B50f1fb27b03DE3a6608Bb587C8aefd3d69c"
   }
 }
