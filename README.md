@@ -20,7 +20,7 @@ An Aragon OSx example plugin using
 - [Solcover](https://github.com/sc-forks/solidity-coverage): code coverage
 - [Prettier Plugin Solidity](https://github.com/prettier-solidity/prettier-plugin-solidity): code formatter
 
-based on [Paul Razvan Berg's great hardhat-template](https://github.com/PaulRBerg/hardhat-template).
+based on [Paul Razvan Berg's hardhat-template](https://github.com/PaulRBerg/hardhat-template).
 
 ## Getting Started
 
