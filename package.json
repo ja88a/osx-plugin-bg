@@ -3,9 +3,10 @@
   "description": "",
   "version": "1.0.0",
   "author": {
-    "name": "Jabba 01",
+    "name": "Jabba ø1",
     "url": "https://github.com/ja88a"
   },
+  "license": "APGL-3.0-or-later",
   "devDependencies": {
     "@ethersproject/abi": "^5.7.0",
     "@ethersproject/abstract-signer": "^5.7.0",
